@@ -1,4 +1,4 @@
-#📚 Movie Recommender System
+📚# Book Recommender System
 
 
 A sophisticated, full-stack web application that suggests books based on user interest using Collaborative Filtering. By analyzing a dataset of over 270,000 users and 1.1 million ratings, the engine identifies patterns in reading habits to recommend your next favorite book.
@@ -81,8 +81,7 @@ npm run dev
 
 
 👨‍💻 Author
-[Your Name]
+[Nasrin Anwar]
 
 ML Engineer / Full-Stack Developer
 
-[Link to your LinkedIn/Portfolio]
